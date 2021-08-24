@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 769833c25e9ecb2469d4cc99d7ed221e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1557133515696448206
+    second: Crayon-Player-Idle_0
+  - first:
+      213: 398860597450248469
+    second: Crayon-Player-Idle_1
+  - first:
+      213: 1926492945737553886
+    second: Crayon-Player-Idle_2
+  - first:
+      213: 8422327427545045376
+    second: Crayon-Player-Idle_3
+  - first:
+      213: -8460871400225667749
+    second: Crayon-Player-Idle_4
+  - first:
+      213: -613502320506827886
+    second: Crayon-Player-Idle_5
+  - first:
+      213: 508958665314262615
+    second: Crayon-Player-Idle_6
+  - first:
+      213: 4185919842334834171
+    second: Crayon-Player-Idle_7
+  - first:
+      213: 3568711703961861713
+    second: Crayon-Player-Idle_8
+  - first:
+      213: 7590249331301043882
+    second: Crayon-Player-Idle_9
+  - first:
+      213: 109829976195860312
+    second: Crayon-Player-Idle_10
+  - first:
+      213: -8799806365859272793
+    second: Crayon-Player-Idle_11
+  - first:
+      213: 6963555237912051467
+    second: Crayon-Player-Idle_12
+  - first:
+      213: -6199073942601562645
+    second: Crayon-Player-Idle_13
+  - first:
+      213: -8556702687203774314
+    second: Crayon-Player-Idle_14
+  - first:
+      213: 2727445516517756910
+    second: Crayon-Player-Idle_15
+  - first:
+      213: 2362195025734638513
+    second: Crayon-Player-Idle_16
+  - first:
+      213: -9081051296305426893
+    second: Crayon-Player-Idle_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1063
+        width: 488
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec221f6beac0c9510800000000000000
+      internalID: 1557133515696448206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_1
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1063
+        width: 488
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5111ce1a999098500800000000000000
+      internalID: 398860597450248469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1063
+        width: 487
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed79bfc80274cba10800000000000000
+      internalID: 1926492945737553886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1063
+        width: 486
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0891ad40c2e12e470800000000000000
+      internalID: 8422327427545045376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1063
+        width: 486
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5589430a42f49a80800000000000000
+      internalID: -8460871400225667749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_5
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 1063
+        width: 487
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b0055d3e66c77f0800000000000000
+      internalID: -613502320506827886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 551
+        width: 486
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ed963a53f201700800000000000000
+      internalID: 508958665314262615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_7
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 551
+        width: 488
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd70ac2bef571a30800000000000000
+      internalID: 4185919842334834171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 551
+        width: 487
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15efc6c036c968130800000000000000
+      internalID: 3568711703961861713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_9
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 551
+        width: 486
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae48dc4d8bf55960800000000000000
+      internalID: 7590249331301043882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_10
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 551
+        width: 488
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85708dc08c1368100800000000000000
+      internalID: 109829976195860312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_11
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 551
+        width: 487
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7acbecbbec0e580800000000000000
+      internalID: -8799806365859272793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 35
+        width: 295
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ffe89289483a060800000000000000
+      internalID: 6963555237912051467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_13
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 35
+        width: 296
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be58ad2e71778f9a0800000000000000
+      internalID: -6199073942601562645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 35
+        width: 296
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690b698cd3c704980800000000000000
+      internalID: -8556702687203774314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 38
+        width: 295
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefc5442f35d9d520800000000000000
+      internalID: 2727445516517756910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_16
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 38
+        width: 295
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb9b174cd338c020800000000000000
+      internalID: 2362195025734638513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crayon-Player-Idle_17
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 38
+        width: 296
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e4d90a5ff99f180800000000000000
+      internalID: -9081051296305426893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
